@@ -31,6 +31,7 @@ Text-emotion files:
    2. TextEmotion.ipynb
    3. audio2text.py
    4. your_model_text20_100.h5
+   5. 
 Steps to train the text emotion recognition model:   
 1. Run the RealTime_EmotionCheck.py
 
