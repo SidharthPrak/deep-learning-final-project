@@ -21,6 +21,18 @@ along with speech emotion classification.
 
 
 
+Facial-emotion files:
+   1. DL_FaceRecognition_Final.ipynb
+   2. RealTime_EmotionCheck.py
+   3. best_model.h5
+
+Text-emotion files:
+   1. Emotion_final.csv
+   2. TextEmotion.ipynb
+   3. audio2text.py
+   4. your_model_text20_100.h5
+   
+
 Steps to train the text emotion recognition model:
 1. download the glove file given in the link below
    The link to the Golve file: https://drive.google.com/file/d/1yaG1D-kYMEDzmz0HnK6Wyt6nqWicMPJu/view?usp=sharing
@@ -44,3 +56,7 @@ Libraries requeired:
 8. pyaudio
 9. vosk
 10. ftfy
+11. opencv-python
+12. matplotlib
+13. np-utils
+14. tensorflow
