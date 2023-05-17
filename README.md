@@ -32,3 +32,15 @@ Steps to execute the existing text emotion recoognition model:
 1. download the glove file given in the link below and place in the same folder.
    The link to the Golve file: https://drive.google.com/file/d/1yaG1D-kYMEDzmz0HnK6Wyt6nqWicMPJu/view?usp=sharing
 2.  run the audio2text.py file. It will take a few seconds to initialize. Once it is initialized it will record the speecha nd convert to text and also predict the emotion of the text       generated.
+
+Libraries requeired:
+1. keras
+2. nltk
+3. numpy
+4. sklearn
+5. tweet-preprocessor
+6. pandas
+7. re
+8. pyaudio
+9. vosk
+10. ftfy
