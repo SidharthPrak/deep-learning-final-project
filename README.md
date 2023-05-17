@@ -18,3 +18,8 @@ Model Description:
 We use a CNN with a Bi-directional
 LSTM for real-time facial expression recognition
 along with speech emotion classification.
+
+
+
+
+The link to the Golve file: https://drive.google.com/file/d/1yaG1D-kYMEDzmz0HnK6Wyt6nqWicMPJu/view?usp=sharing
