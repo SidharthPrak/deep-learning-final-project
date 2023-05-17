@@ -43,7 +43,7 @@ Steps to train the text emotion recognition model:
 Steps to execute the existing text emotion recoognition model:
 1. download the glove file given in the link below and place in the same folder.
    The link to the Golve file: https://drive.google.com/file/d/1yaG1D-kYMEDzmz0HnK6Wyt6nqWicMPJu/view?usp=sharing
-2.  run the audio2text.py file. It will take a few seconds to initialize. Once it is initialized it will record the speecha nd convert to text and also predict the emotion of the text       generated.
+2.  run the audio2text.py file. It will take a few seconds to initialize. Once it is initialized it will record the speech and convert to text and also predict the emotion of the text       generated.
 
 Libraries requeired:
 1. keras
