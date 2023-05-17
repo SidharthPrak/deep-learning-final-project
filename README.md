@@ -15,6 +15,6 @@ analyzing facial expressions, tone of speech, and
 language used in the interaction.
 
 Model Description:
-We use a hCNN with a Bi-directional
+We use a CNN with a Bi-directional
 LSTM for real-time facial expression recognition
 along with speech emotion classification.
